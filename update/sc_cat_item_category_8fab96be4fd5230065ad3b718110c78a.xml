@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Takamine P7DC">1bfa5e7e4fd5230065ad3b718110c71a</sc_cat_item>
+        <sc_category display_value="Acoustic Guitar">a4c9defa4fd5230065ad3b718110c746</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 22:18:04</sys_created_on>
+        <sys_id>8fab96be4fd5230065ad3b718110c78a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Acoustic Guitar.Takamine P7DC</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sc_cat_item_category_8fab96be4fd5230065ad3b718110c78a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 22:18:04</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

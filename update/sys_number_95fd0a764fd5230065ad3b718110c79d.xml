@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_289305_rkit_support_its">x_289305_rkit_support_its</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SUPIT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 21:18:09</sys_created_on>
+        <sys_id>95fd0a764fd5230065ad3b718110c79d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SUPIT</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sys_number_95fd0a764fd5230065ad3b718110c79d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 21:18:09</sys_updated_on>
+    </sys_number>
+</record_update>
