@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <display_field>number</display_field>
+        <field_list/>
+        <filter table="x_289305_rkit_teach_it">assigned_toISEMPTY^stateIN-5,1,2<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,2"/>
+        </filter>
+        <glyph>pencil-square-o</glyph>
+        <id/>
+        <maximum_entries/>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles>x_289305_rkit.teach-it editor</roles>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">151058784f2d230065ad3b718110c7cf</sp_column>
+        <sp_page display_value="my_teachits_list">0cf83b9c4fa1230065ad3b718110c7fd</sp_page>
+        <sp_widget display_value="RKIT-List">b8ab98fc4f2d230065ad3b718110c726</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-31 18:27:55</sys_created_on>
+        <sys_id>02806c344f6d230065ad3b718110c7d9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>All Open Teach-its</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_instance_vlist_02806c344f6d230065ad3b718110c7d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-31 20:31:42</sys_updated_on>
+        <table>x_289305_rkit_teach_it</table>
+        <title>All Open Teach-its</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "short_description",
+		"displayValue": "short_description"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"role": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=02806c344f6d230065ad3b718110c7d9"/>
+</record_update>

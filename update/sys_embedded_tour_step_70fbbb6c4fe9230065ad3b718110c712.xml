@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref/>
+        <active>true</active>
+        <content><![CDATA[Choose from our variety of instructional services.  When your order is completed, an instructor will contact you with your details and dates.  At the end of 4 sessions, you can choose to extend or close your order.  Come back as many times as you wish and even specify for your favorite instructor.
+
+That&#39;s al there is to it!  Your music career is often a lifetime journey so remember have fun on your ride! 
+
+your friends at DKME]]></content>
+        <guide display_value="Order Lesson">28e7b3e84fe9230065ad3b718110c747</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Conclusion</name>
+        <options/>
+        <order>-100</order>
+        <placement>bottom</placement>
+        <step_type>concl</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-31 15:48:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70fbbb6c4fe9230065ad3b718110c712</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conclusion</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_70fbbb6c4fe9230065ad3b718110c712</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-31 15:48:06</sys_updated_on>
+        <target/>
+        <target_ref/>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window/>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=70fbbb6c4fe9230065ad3b718110c712"/>
+</record_update>

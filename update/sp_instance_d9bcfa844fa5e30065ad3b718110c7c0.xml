@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="4">6181f6cc4f65e30065ad3b718110c7d5</sp_column>
+        <sp_widget display_value="RKIT-Image">2802495f4f95630065ad3b718110c773</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-29 21:54:48</sys_created_on>
+        <sys_id>d9bcfa844fa5e30065ad3b718110c7c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_instance_d9bcfa844fa5e30065ad3b718110c7c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 21:56:14</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"image": {
+		"value": "reviews.jpg",
+		"displayValue": "reviews.jpg"
+	},
+	"bootstrap_classes": {
+		"value": "my-2",
+		"displayValue": "my-2"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d9bcfa844fa5e30065ad3b718110c7c0"/>
+</record_update>

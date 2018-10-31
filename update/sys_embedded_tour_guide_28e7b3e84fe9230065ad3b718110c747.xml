@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>1</autolaunch_order>
+        <context>rsp?id=home&amp;gtd_portal_title=Doug &amp; Kui's Music Emporium&amp;gtd_page_title=Doug &amp; Kui's Music Emporium</context>
+        <description>guided tour for ordering lessons</description>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>Order Lesson</name>
+        <options/>
+        <roles>x_289305_rkit.DKME enduser</roles>
+        <sp_page display_value="home">7fb9bc9b4f95630065ad3b718110c7ad</sp_page>
+        <sp_portal display_value="Doug &amp; Kui's Music Emporium">09ebda7e4fd5230065ad3b718110c76b</sp_portal>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-31 15:32:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28e7b3e84fe9230065ad3b718110c747</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Order Lesson</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_28e7b3e84fe9230065ad3b718110c747</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-31 15:48:09</sys_updated_on>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>

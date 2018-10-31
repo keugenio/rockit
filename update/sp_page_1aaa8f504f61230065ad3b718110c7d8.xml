@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>my_teachits</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles>x_289305_rkit.teach-it editor</roles>
+        <short_description>teach its for currently logged in instructor</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-30 17:35:16</sys_created_on>
+        <sys_id>1aaa8f504f61230065ad3b718110c7d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>my_teachits</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_page_1aaa8f504f61230065ad3b718110c7d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-30 18:19:55</sys_updated_on>
+        <title>My Teach-its</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=1aaa8f504f61230065ad3b718110c7d8"/>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target>page</click_target>
+        <details/>
+        <details_link_text>Find more info</details_link_text>
+        <details_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</details_page>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>true</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2018-10-01 22:11:53</from>
+        <glyph>exclamation</glyph>
+        <glyph_alt_text>boing!</glyph_alt_text>
+        <name>Gibson Fall sale</name>
+        <public>true</public>
+        <roles/>
+        <summary>Take advantage of our fall sale!  All Gibson guitars are 25% for Rockit members!  </summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-29 22:14:20</sys_created_on>
+        <sys_id>ca70cf084fa5e30065ad3b718110c7cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gibson Fall sale</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>announcement_ca70cf084fa5e30065ad3b718110c7cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 22:14:20</sys_updated_on>
+        <title>All Gibson guitars are now 25% off</title>
+        <to>2018-12-31 23:12:01</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca70cf084fa5e30065ad3b718110c7cb"/>
+</record_update>

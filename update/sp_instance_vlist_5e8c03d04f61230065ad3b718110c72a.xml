@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <display_field>number</display_field>
+        <field_list/>
+        <filter table="x_289305_rkit_teach_it">stateNOT IN3,4,7<item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+        </filter>
+        <glyph>pencil</glyph>
+        <id/>
+        <maximum_entries/>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2c0b07504f61230065ad3b718110c77b</sp_column>
+        <sp_page display_value="my_teachits_list">0cf83b9c4fa1230065ad3b718110c7fd</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-30 17:42:27</sys_created_on>
+        <sys_id>5e8c03d04f61230065ad3b718110c72a</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Open Teach-its</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_instance_vlist_5e8c03d04f61230065ad3b718110c72a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-30 21:23:54</sys_updated_on>
+        <table>x_289305_rkit_teach_it</table>
+        <title>Open Teach-its</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "short_description",
+		"displayValue": "short_description"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "0cf83b9c4fa1230065ad3b718110c7fd",
+		"displayValue": "my_teachits_list"
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e8c03d04f61230065ad3b718110c72a"/>
+</record_update>

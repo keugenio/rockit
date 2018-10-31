@@ -2,11 +2,11 @@
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables/>
         <default>false</default>
-        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <homepage display_value="home">7fb9bc9b4f95630065ad3b718110c7ad</homepage>
         <icon>5c6c1abe4fd5230065ad3b718110c753</icon>
         <kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
         <kb_knowledge_page display_value="kb_view">db9fcab847101200ba13a5554ee490cf</kb_knowledge_page>
-        <login_page/>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
         <logo>815cd6fe4fd5230065ad3b718110c7d1</logo>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
@@ -14,21 +14,21 @@
         <sc_catalog_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sc_catalog_page>
         <sc_category_page/>
         <sp_chat_queue/>
-        <sp_rectangle_menu/>
+        <sp_rectangle_menu display_value="DKME  Header Menu">1d876c534f95630065ad3b718110c7fa</sp_rectangle_menu>
         <sqanda_knowledge_base display_value="Social QA">5c45a3a0d712120023c84f80de61038b</sqanda_knowledge_base>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-25 22:21:16</sys_created_on>
         <sys_id>09ebda7e4fd5230065ad3b718110c76b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Doug &amp; Kui's Music Emporium</sys_name>
         <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
         <sys_update_name>sp_portal_09ebda7e4fd5230065ad3b718110c76b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-25 22:21:16</sys_updated_on>
-        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <sys_updated_on>2018-10-27 04:29:02</sys_updated_on>
+        <theme display_value="DKME Theme">091668df4f55630065ad3b718110c757</theme>
         <title>Doug &amp; Kui's Music Emporium</title>
         <url_suffix>rsp</url_suffix>
     </sp_portal>

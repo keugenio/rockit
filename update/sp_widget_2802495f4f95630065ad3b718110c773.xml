@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>img {
+	-moz-box-shadow: 5px 5px 6px rgba(255, 21, 21, .5);
+	-webkit-box-shadow: 5px 5px 6px rgba(255, 21, 21, .5);
+	box-shadow: 5px 5px 6px rgba(255, 21, 21, .5);
+
+	border-radius:100px;
+ 	height:200px;
+  width:200px;
+
+}
+
+
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>rkit-image</id>
+        <internal>false</internal>
+        <link/>
+        <name>RKIT-Image</name>
+        <option_schema>[{"hint":"image","name":"image","section":"Data","label":"Image","type":"string"},{"name":"bootstrap_classes","section":"Presentation","label":"Bootstrap Classes","type":"string"}]</option_schema>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 05:03:17</sys_created_on>
+        <sys_id>2802495f4f95630065ad3b718110c773</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>RKIT-Image</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_widget_2802495f4f95630065ad3b718110c773</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 21:53:05</sys_updated_on>
+        <template><![CDATA[<div class="{{::options.bootstrap_classes}}">
+	<img class="round" src={{::c.options.image}} width=auto height=auto/>
+</div>]]></template>
+    </sp_widget>
+</record_update>

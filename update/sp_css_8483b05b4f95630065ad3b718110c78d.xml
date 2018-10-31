@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>.mt-1{&#13;
+  	margin-top:1%;&#13;
+}&#13;
+.mt-2{&#13;
+	margin-top:2%;&#13;
+}&#13;
+.p-1{&#13;
+	padding:1%;&#13;
+}&#13;
+.p-2{&#13;
+	padding:2%;&#13;
+}&#13;
+.display-1{&#13;
+	font-size:1em!important;&#13;
+}&#13;
+.display-2{&#13;
+	font-size:2em!important;&#13;
+}&#13;
+.bg-white{&#13;
+	background-color: #fff;&#13;
+}&#13;
+.h-100{&#13;
+  height:100vh;&#13;
+}&#13;
+.h-75{&#13;
+  height:75vh;&#13;
+}&#13;
+.h-50{&#13;
+  height:50vh;&#13;
+}&#13;
+.h-25{&#13;
+  height:25vh;&#13;
+}&#13;
+.bg-white{&#13;
+  background:#fff;&#13;
+}</css>
+        <name>dkme-bootstrap</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 04:03:00</sys_created_on>
+        <sys_id>8483b05b4f95630065ad3b718110c78d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>dkme-bootstrap</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_css_8483b05b4f95630065ad3b718110c78d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-30 04:18:30</sys_updated_on>
+    </sp_css>
+</record_update>

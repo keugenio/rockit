@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Teach-it" max_length="40" name="x_289305_rkit_teach_it" type="collection"/>
+    <element extends="task" label="Teach-it" max_length="40" name="x_289305_rkit_teach_it" sizeclass="3" type="collection">
+        <element label="New HTML" max_length="65536" name="u_html_10" type="html"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.getUser().getFullName()" label="student" max_length="40" name="u_student" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="UserID" max_length="40" name="u_userid" read_only="true" type="string" use_dynamic_default="true"/>
+    </element>
 </database>

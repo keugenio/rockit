@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>
+section.page, main.body {
+    padding-top: 0px !important;
+}
+
+.h-100vh{
+  height:100vh;
+}
+.h-75{
+  height:75vh;
+}
+.h-50{
+  height:50vh;
+}
+.h-25{
+  height:25vh;
+}
+.my-2{
+  margin-top:5%;
+  margin-bottom:5%;
+}
+.h-100{
+  height:100%;
+}
+.hero-image {
+  background-image:url("sale.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 50vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>home</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 04:27:11</sys_created_on>
+        <sys_id>7fb9bc9b4f95630065ad3b718110c7ad</sys_id>
+        <sys_mod_count>43</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_page_7fb9bc9b4f95630065ad3b718110c7ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 20:56:00</sys_updated_on>
+        <title>Doug &amp; Kui's Music Emporium</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=7fb9bc9b4f95630065ad3b718110c7ad"/>
+</record_update>
