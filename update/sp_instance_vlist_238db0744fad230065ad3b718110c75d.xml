@@ -26,21 +26,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-31 20:34:43</sys_created_on>
         <sys_id>238db0744fad230065ad3b718110c75d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>My Fix-its</sys_name>
         <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
         <sys_update_name>sp_instance_vlist_238db0744fad230065ad3b718110c75d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-31 21:20:28</sys_updated_on>
+        <sys_updated_on>2018-10-31 21:51:25</sys_updated_on>
         <table>x_289305_rkit_fix_it</table>
-        <title/>
+        <title>My Fix-its</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"always_show": {
-		"value": "",
-		"displayValue": ""
+		"value": "true",
+		"displayValue": "true"
 	},
 	"panel_body_height": {
 		"value": "",

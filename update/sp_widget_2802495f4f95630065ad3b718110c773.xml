@@ -26,7 +26,7 @@
         <internal>false</internal>
         <link/>
         <name>RKIT-Image</name>
-        <option_schema>[{"hint":"image","name":"image","section":"Data","label":"Image","type":"string"},{"name":"bootstrap_classes","section":"Presentation","label":"Bootstrap Classes","type":"string"}]</option_schema>
+        <option_schema>[{"hint":"image","name":"image","section":"Data","label":"Image","type":"string"},{"name":"bootstrap_classes","section":"Presentation","label":"Bootstrap Classes","type":"string"},{"hint":"height of image (px)","name":"width","section":"Presentation","default_value":"100","label":"width","type":"integer"},{"hint":"height of image (px)","name":"height","section":"Presentation","default_value":"100","label":"height","type":"integer"}]</option_schema>
         <public>false</public>
         <roles/>
         <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
@@ -35,16 +35,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-27 05:03:17</sys_created_on>
         <sys_id>2802495f4f95630065ad3b718110c773</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>RKIT-Image</sys_name>
         <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
         <sys_update_name>sp_widget_2802495f4f95630065ad3b718110c773</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-29 21:53:05</sys_updated_on>
+        <sys_updated_on>2018-11-02 16:49:35</sys_updated_on>
         <template><![CDATA[<div class="{{::options.bootstrap_classes}}">
-	<img class="round" src={{::c.options.image}} width=auto height=auto/>
+	<img class="round" src={{::c.options.image}} style="width:{{::c.options.width}}px; height:{{::c.options.height}}px"/>
 </div>]]></template>
     </sp_widget>
 </record_update>

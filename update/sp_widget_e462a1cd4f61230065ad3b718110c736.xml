@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>rkit-jumbotron</id>
+        <internal>false</internal>
+        <link/>
+        <name>RKIT-Jumbotron</name>
+        <option_schema>[{"hint":"image of the backround","name":"bg-image","section":"Presentation","default_value":"home_page_jumbotron_image.jpg","label":"Background Image","type":"string"}]</option_schema>
+        <public>false</public>
+        <roles>x_289305_rkit.DKME enduser</roles>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-01 17:54:06</sys_created_on>
+        <sys_id>e462a1cd4f61230065ad3b718110c736</sys_id>
+        <sys_mod_count>58</sys_mod_count>
+        <sys_name>RKIT-Jumbotron</sys_name>
+        <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
+        <sys_update_name>sp_widget_e462a1cd4f61230065ad3b718110c736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-01 21:54:50</sys_updated_on>
+        <template><![CDATA[<div class="row" style="background-image:url(home_page_jumbotron_image.jpg); height:100vh; background-repeat: no-repeat; background-size: cover; margin-top:-100px">
+  <div style="position:relative height:100%">
+    <div class="col-md-4" style="position:absolute; bottom:25%; right:25%;">
+        <div class="wrapper-xl">
+          <widget id="typeahead-search"></widget>
+        </div>      
+    </div>   
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

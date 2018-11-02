@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
     <sp_container action="INSERT_OR_UPDATE">
-        <background_color/>
+        <background_color>#343d47</background_color>
         <background_image/>
         <background_style>default</background_style>
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
-        <container_class_name/>
-        <name>Doug &amp; Kui's Music Emporium - Container 2</name>
-        <order>2</order>
+        <container_class_name>p-2</container_class_name>
+        <name>Doug &amp; Kui's Music Emporium - Container 6</name>
+        <order>6</order>
         <sp_page display_value="home">7fb9bc9b4f95630065ad3b718110c7ad</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-27 05:09:12</sys_created_on>
-        <sys_id>1b534ddf4f95630065ad3b718110c704</sys_id>
-        <sys_mod_count>20</sys_mod_count>
-        <sys_name>Doug &amp; Kui's Music Emporium - Container 2</sys_name>
+        <sys_created_on>2018-11-02 16:37:23</sys_created_on>
+        <sys_id>366a92914f6d230065ad3b718110c7e6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Doug &amp; Kui's Music Emporium - Container 6</sys_name>
         <sys_package display_value="Rock-it" source="x_289305_rkit">d3ec86324fd5230065ad3b718110c75e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rock-it">d3ec86324fd5230065ad3b718110c75e</sys_scope>
-        <sys_update_name>sp_container_1b534ddf4f95630065ad3b718110c704</sys_update_name>
+        <sys_update_name>sp_container_366a92914f6d230065ad3b718110c7e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-01 18:18:16</sys_updated_on>
+        <sys_updated_on>2018-11-02 17:24:38</sys_updated_on>
         <title/>
         <width>container-fluid</width>
     </sp_container>
